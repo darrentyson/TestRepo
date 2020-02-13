@@ -1,0 +1,9 @@
+Git/GitHub notes
+
+Git repositories
+
+
+File structures: root folder/directory 
+Recommended location of git repositories
+Separate output directory when processing code (outside of git repos)
+
